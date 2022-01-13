@@ -1,6 +1,8 @@
 # Olympiaprojekti
 Interaktiivinen kartta, josta voidaan tarkkailla eri valtioiden olympiadataa.  
 [Linkki toimivalle sivulle](https://olympiasetit.herokuapp.com/) (Hostattu Herokussa)
+###### Pääikkuna
+![](https://github.com/OlliMehtonen/Olympiaprojekti/blob/main/Debug/Capture.PNG)
 ## Käytetty data
 * [Summer & Winter Olympic Games](https://data.world/johayes13/summer-winter-olympic-games)
 * [120 years of Olympic history: athletes and results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
