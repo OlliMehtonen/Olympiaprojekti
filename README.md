@@ -1,6 +1,6 @@
 # Olympiaprojekti
 Interaktiivinen kartta, josta voidaan tarkkailla eri valtioiden olympiadataa.  
-[Linkki toimivalle sivulle](https://ollimehtonen.github.io/olympiasivu/)
+[Linkki toimivalle sivulle](https://ollimehtonen.github.io/Olympiasivu/)
 ###### Pääikkuna
 ![](https://github.com/OlliMehtonen/Olympiaprojekti/blob/main/Debug/Capture.PNG)
 ## Käytetty data
